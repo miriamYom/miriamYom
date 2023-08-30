@@ -1,11 +1,11 @@
 ### Hi there 👋
-I’m currently working as a freelance full stack developer, You can take a look at retirementSimulator repo.
+I’m currently working as a freelance full stack developer, You can take a look at **retirementSimulator** repo.
 It's a simulator for calculating all the grants to which public sector employees are entitled upon retirement,
 intended to be used by the human resources, payroll and finance departments in the local authorities. 
-The technology used: Server side: C#, ASP.Net Core, using Layers Architecture and Web API. 
-Client side: React (React-Redux) Database: MongoDB.
+The technology used: Server side: **C#, ASP.Net Core**, using Layers Architecture and Web API. 
+Client side: **React** (React-Redux) Database: **MongoDB**.
 
-Looking for a challenging job in the backend world.
+**Looking for a challenging job in the backend world.**
 
 <!--
 **miriamYom/miriamYom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
